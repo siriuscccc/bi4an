@@ -1,19 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b0fd2fe.css",
-    "main.js": "/static/js/main.b36c4a37.js",
+    "main.css": "/static/css/main.d8693a0a.css",
+    "main.js": "/static/js/main.e1d20412.js",
     "static/js/453.f5caca94.chunk.js": "/static/js/453.f5caca94.chunk.js",
+    "static/media/Trend_B.svg": "/static/media/Trend_B.413763e57795e296ce78941208c79ee0.svg",
+    "static/media/Trend_A.svg": "/static/media/Trend_A.9c411ab000a130f0f2b4fb94ca1810d7.svg",
+    "static/media/Seasonality_A.svg": "/static/media/Seasonality_A.84e2a7afc455967162366651bb06b9e4.svg",
+    "static/media/share.svg": "/static/media/share.6cbadeca641cefe84540c9f627746df7.svg",
     "index.html": "/index.html",
+    "static/media/Association_A.svg": "/static/media/Association_A.6173ff75138dd40e998e3fc2ffbf29dd.svg",
+    "static/media/Distribution_A.svg": "/static/media/Distribution_A.6ed8da6e7fa84d8e554476ca035a4eee.svg",
+    "static/media/Difference_B.svg": "/static/media/Difference_B.3a134d72d1440f376c4d11c4ab0dad28.svg",
     "static/media/down.svg": "/static/media/down.71e0fd7a61e43ad864941bd44a80d1dc.svg",
     "static/media/right.svg": "/static/media/right.40af8b7291a047c57beae1823f27b932.svg",
     "static/media/up.svg": "/static/media/up.e1e0113a6ec2c5c029f0b31962ccddbd.svg",
     "static/media/left.svg": "/static/media/left.ab3e08f30807f8fb3838525a65af0c47.svg",
-    "main.3b0fd2fe.css.map": "/static/css/main.3b0fd2fe.css.map",
-    "main.b36c4a37.js.map": "/static/js/main.b36c4a37.js.map",
+    "static/media/Seasonality_B.svg": "/static/media/Seasonality_B.4549751c8184cb3a85b714b6c09413b7.svg",
+    "static/media/Anomaly_A.svg": "/static/media/Anomaly_A.52b2d7eeaa6cfe10f987e04cd9705184.svg",
+    "static/media/Difference_A.svg": "/static/media/Difference_A.4285b969c67f1af63680b1ec05f5fe1e.svg",
+    "static/media/Anomaly_B.svg": "/static/media/Anomaly_B.38cb44f89f78129f3ec704ebbf5d14c0.svg",
+    "static/media/Association_B.svg": "/static/media/Association_B.e4bef661dba5c0a9c961b810721d3092.svg",
+    "static/media/Rank_A.svg": "/static/media/Rank_A.a3d0aa2fd9b3a5e358e598c3118cf62e.svg",
+    "static/media/Rank_B.svg": "/static/media/Rank_B.870659a27e48cc3bfff0d6c59ad37f9a.svg",
+    "static/media/Proportion_A.svg": "/static/media/Proportion_A.5f5eb6915b2015108af543cbaaa355e6.svg",
+    "static/media/Proportion_B.svg": "/static/media/Proportion_B.ac1532bb275857fbd626c5d8653d1374.svg",
+    "static/media/Distribution_B.svg": "/static/media/Distribution_B.c60f4f417804bfbf5e37db734bf4fb3b.svg",
+    "main.d8693a0a.css.map": "/static/css/main.d8693a0a.css.map",
+    "main.e1d20412.js.map": "/static/js/main.e1d20412.js.map",
     "453.f5caca94.chunk.js.map": "/static/js/453.f5caca94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b0fd2fe.css",
-    "static/js/main.b36c4a37.js"
+    "static/css/main.d8693a0a.css",
+    "static/js/main.e1d20412.js"
   ]
 }
